@@ -17,6 +17,15 @@ h2{
 	padding:10px;
 }
 
+a:link{
+	color:darkorange;
+}
+
+a:hover {
+	color:orangered;
+}
+
+
 img{
 	display:block;
 	margin:0 auto;
